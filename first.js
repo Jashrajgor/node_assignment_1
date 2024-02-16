@@ -1,3 +1,9 @@
+const add=10+2;
+console.log("The added value is :",add);
+const sub=10-2;
+console.log("The subtraction value is :",sub);
+console.log("\n \n")
+
 // importing the file module that is in-built module of node.js which provide some functionality of reading a file content and writing into the file;
 const fs=require("fs");
 fs.readFile('something.txt','utf-8',(err,data)=>{
