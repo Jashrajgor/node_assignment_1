@@ -1,0 +1,18 @@
+The node js is a runtime enviornment of javascript 
+Javascript and Node.js are like siblings but with different specialities
+Javascript Vs Node.js :-
+1 : Running : The Javascript runs in the frontend part and the Node.js runs in the backend part
+
+V8 engine is written in c++ developed by google the v8 engine is present in the broweser that helps to run java script in the browser to run the javascript outside the browser the node.js is made 
+
+Use Cases of Node.js :
+1. API
+2 To make some real time techbolgs and app like zoom
+
+Advantages :
+1. Open source 
+2. large community
+
+In node.js there is module that are like super hero's and there are two types of modules 
+1.Built-in module
+2.Third Party module

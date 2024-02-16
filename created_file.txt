@@ -1,0 +1,1 @@
+file is create with the help of writeFile mehtod of fs object
